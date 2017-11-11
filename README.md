@@ -40,7 +40,7 @@ The implemented modules are:
 * Please download the coco classifier [here](http://download.tensorflow.org/models/object_detection/faster_rcnn_resnet101_coco_11_06_2017.tar.gz) and unzip it inside ros/src/tl_detector/light_classification.
 * Recommendation: use a GPU for the classifier to give better results
 
-### Native Installation
+### Note
 * This is an indicidual submission, just to run on the simulator (not on Carla)
 
 ### Native Installation
